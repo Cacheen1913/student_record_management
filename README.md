@@ -27,6 +27,7 @@ Add new suggestions to student files with automatic file updates
 View updated suggestion records
 
 The goal of this project is to offer a beginner-friendly implementation of school management features while practicing clean logic and Python file operations.
+
 FEATURES
 
 Parent & Teacher user-role system
