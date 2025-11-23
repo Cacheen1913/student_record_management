@@ -54,11 +54,3 @@ Conditional statements
 File handling (open, read/write/append)
 
 Basic input/output operations
-
-Project Structure
-├── Aditya.txt
-├── Aditya2.txt
-├── Souvik.txt
-├── Sachin.txt
-├── program.py     # main file (source code)
-└── README.md
